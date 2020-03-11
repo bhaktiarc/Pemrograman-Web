@@ -1,0 +1,16 @@
+untuk akses admin : admin-login.php 
+Admin-Login :
+1. username : admin
+   password : admin
+2. username : galih
+   password : 123
+3. username : guidita
+   password : dita
+4. username : narendra
+   password : oka
+5. username : salma 
+   password : salma
+
+untuk database name : pa_jasakirim
+
+untuk akses user : index.php (sebagai halaman home)
